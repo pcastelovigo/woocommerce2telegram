@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       WooCommerce&Telegram
- * Plugin URI:        https://github.com/guionazo/woocommerce2telegram
+ * Plugin URI:        https://github.com/pcastelovigo/woocommerce2telegram
  * Description:       Envia mediante un bot de Telegram los datos de los pedidos entrantes.
  * Version:           1.0
  * Requires at least: 5.2
